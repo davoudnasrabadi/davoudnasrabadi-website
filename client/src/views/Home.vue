@@ -4,8 +4,10 @@
     <div class="container">
       <h1 class="title">Davoud Nasrabadi</h1>
       <h2 class="subtitle">
-        A simple container to divide your page into <strong>sections</strong>, like the one you're currently reading
+        M.Sc. graduate in Software Engineering
       </h2>
+      <p>Full Stack Web Developer</p>
+      <small>Based in Mashhad, Iran.</small>
     </div>
   </section>
   </div>

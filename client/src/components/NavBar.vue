@@ -18,14 +18,14 @@
       </a>
 
       <a class="navbar-item" href="/about">
-        <router-link to="/about">About me</router-link> 
+        About me
       </a>
 
        <a class="navbar-item">
-        Weblog
+        Weblog (In persian)
       </a>
 
-      <a class="navbar-item">
+      <a class="navbar-item" href="/contact">
         Contact me
       </a>
     </div>
